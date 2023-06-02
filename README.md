@@ -1,1 +1,1 @@
-# Lab3_301249589(Fadeeva)_Question1
+Online Store Shopping Cart - C# application with simple user interface built on WPF
